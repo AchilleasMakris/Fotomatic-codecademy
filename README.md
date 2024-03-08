@@ -6,7 +6,7 @@
 Fix a broken version of a responsive website in this project!
 
 ## Requirements
-In this project, you will fix a broken version of a responsive website called Fotomatic. You will be provided with specs to help guide you in making adjustments to the broken code.
+In this project,  you will fix a broken version of a responsive website called Fotomatic. You will be provided with specs to help guide you in making adjustments to the broken code.
 
 ## Design Specs
 https://static-assets.codecademy.com/Paths/full-stack-career-journey/Fotomatic/fotomatic_spec_landing_v2.png
