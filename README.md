@@ -1,4 +1,4 @@
-﻿**`﻿Fotomatic Project`**
+**`﻿Fotomatic Project`**
 
 
 ## Introduction
@@ -43,6 +43,6 @@ Project is completed as required.
 
 ## Author/Contact
 
-    M. Achilleas - Initial work
+    M. Achilleas - Initial work.
     Website Preview: https://fotomatic-codecademy.vercel.app/
     
